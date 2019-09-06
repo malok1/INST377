@@ -3,14 +3,18 @@
 <body>
 
 <h1 style="color:blue;"> Hello World!</h1>
-<p style="font-family:courier;">My name is Malyrum Ok</p>
+<p style="font-family:courier;">My name is Malyrum Ok and I'm a senior at UMD majoring in Information Science!</p>
 <a href="https://www.w3schools.com">This is a link to the html tutorial</a>
 <ul>
     <li>Eggs</li>
     <li>Cereal</li>
     <li>Milk</li>
 </ul>
-<button>Click me</button>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+<p id="demo"></p>
 
 </body>
 </html>
