@@ -1,0 +1,23 @@
+
+
+
+.header {
+  height: 50px;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12pt;  
+  background-color: grey;
+  color: white;
+
+}
+#name {
+  color: lightblue;
+}
+
+#profile_pic {
+  height: 400px;
+  width: 320px;
+}
