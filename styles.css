@@ -1,23 +1,45 @@
 
 
-
+.header img{
+  height: 300px;
+  width: 300px
+}
 .header {
-  height: 50px;
   text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 12pt;  
   background-color: grey;
-  color: white;
-
 }
+
+
 #name {
   color: lightblue;
 }
 
-#profile_pic {
-  height: 400px;
-  width: 320px;
+#title {
+  color: lightblue;
+}
+
+#date1 {
+  text-align: right;
+}
+
+#date2 {
+  text-align: right;
+}
+
+#date3 {
+  text-align: right;
+}
+
+.content {
+  width: 60%;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  background-color: grey;
+  color: white;
 }
