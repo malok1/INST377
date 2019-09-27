@@ -1,6 +1,6 @@
 
 
-.header img{
+.header img {
   height: 300px;
   width: 300px
 }
@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: grey;
+  background-color:grey;
 }
 
 
@@ -42,4 +42,5 @@ body {
   font-size: 12pt;
   background-color: grey;
   color: white;
+  line-height: 1.2;
 }
