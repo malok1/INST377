@@ -1,8 +1,6 @@
-
-
 .header img {
   height: 300px;
-  width: 300px
+  width: 300px;
 }
 .header {
   text-align: center;
@@ -11,9 +9,8 @@
 }
 
 body {
-  background-color:grey;
+  background-color: grey;
 }
-
 
 #name {
   color: lightblue;
